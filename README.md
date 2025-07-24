@@ -42,9 +42,10 @@ npm run build
 
 ## 🖼️ 미리보기 예시
 
-|            메인 화면            |                 질문 예시                 |              결과 예시              |
-| :-----------------------------: | :---------------------------------------: | :---------------------------------: |
-| ![main](public/images/main.png) | ![question1](public/images/question1.png) | ![result](public/images/result.png) |
+| 메인 화면 | 질문 예시 | 결과 예시 |
+|:---------:|:---------:|:---------:|
+| <img width="300" src="https://github.com/user-attachments/assets/eaa1978a-6422-46c4-966e-5d563aa967f7" alt="main" /> | <img width="300" src="https://github.com/user-attachments/assets/b4df5972-21a4-496a-9c4b-cabfa54652c3" alt="question1" /> | <img width="300" src="https://github.com/user-attachments/assets/b6014db5-2155-4c93-adab-4ae9a9c3f40f" alt="result" /> |
+
 
 ## 라이선스
 
